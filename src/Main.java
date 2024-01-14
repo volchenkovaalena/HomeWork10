@@ -9,9 +9,6 @@ public class Main {
         fullName = "Иванов Семён Семёнович";
         fullName = fullName.replace ("ё", "");
         System.out.println ( fullName );
+
     }
-
-
-
-
 }
